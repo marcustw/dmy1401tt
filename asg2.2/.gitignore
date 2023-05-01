@@ -1,0 +1,4 @@
+/static/uploads/*
+/static/classifications/*
+__pycache__
+keras_metadata.pb
